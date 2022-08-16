@@ -1,0 +1,1 @@
+<h5 class="fixed bottom-0 right-0 p-1 bg-white/60 text-slate-700 rounded-xl shadow-lg shadow-black/70">Developed by <a href="https://rodolphebeauverger.vercel.app/" class="underline">Rodolphe Beauverger</a></h5>

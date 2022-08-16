@@ -3,7 +3,7 @@
 </svelte:head>
 
 <div class="h-screen w-full flex flex-col items-center">
-  <div class="absolute top-[15%] left-[15%] text-slate-800 z-50 bg-maiia/30 p-8 rounded-lg shadow-xl shadow-gray-400/80 text-center font-bold">
+  <div class="absolute top-[15%] left-[50%] translate-x-[-50%] text-slate-800 z-50 bg-maiia/30 p-8 rounded-lg shadow-xl shadow-gray-400/80 text-center font-bold">
      <h1>Didier Bedel</h1>
     <h2>Masseur-Kinésithérapeute</h2>
     <h2>Kiné du Sport à Brest</h2>

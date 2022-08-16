@@ -16,7 +16,7 @@
         <li class="ml-10 text-sm uppercase hover:border-b hover:border-link"><a href="/votreKine">Votre Kiné</a></li>
         <li class="ml-10 text-sm uppercase hover:border-b hover:border-link"><a href="/kineDuSport">Kiné du Sport</a></li>
         <li class="ml-10 text-sm uppercase hover:border-b hover:border-link"><a href="/materiel">Matériel</a></li>
-        <li class="ml-10 text-sm uppercase hover:border-b hover:border-link"><a href="/">Prendre rdv</a></li>
+        <li class="ml-10 text-sm uppercase hover:border-b hover:border-link"><a href="https://www.maiia.com/masseur-kinesitherapeute/29200-brest/bedel-didier">Prendre rdv</a></li>
         <li class="ml-10 text-sm uppercase hover:border-b hover:border-link"><a href="/contact">Contact</a></li>
       </ul>
       <div on:click={toggleNavbar} class="md:hidden">
@@ -40,7 +40,7 @@
             <li on:click={toggleNavbar} class="py-4 text-sm"><a href="/votreKine">Votre Kiné</a></li>
             <li on:click={toggleNavbar} class="py-4 text-sm"><a href="/kineDuSport">Kiné du Sport</a></li>
             <li on:click={toggleNavbar} class="py-4 text-sm"><a href="/materiel">Matériel</a></li>
-            <li on:click={toggleNavbar} class="py-4 text-sm"><a href="/">Prendre rdv</a></li>
+            <li on:click={toggleNavbar} class="py-4 text-sm"><a href="https://www.maiia.com/masseur-kinesitherapeute/29200-brest/bedel-didier">Prendre rdv</a></li>
             <li on:click={toggleNavbar} class="py-4 text-sm"><a href="/contact">Contact</a></li>
           </ul>
         </div>

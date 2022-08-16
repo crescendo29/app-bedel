@@ -9,6 +9,7 @@ module.exports = {
       },
       colors: {
         maiia: "rgba(87, 187, 197, 100%)",
+        maiia2: "rgba(100, 201, 195, 100%)",
         navBg: "#ecf0f3",
         link: "#1f2937"
       },

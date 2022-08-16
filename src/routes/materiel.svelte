@@ -1,4 +1,4 @@
-<div class="w-full pt-36 px-4">
+<div class="w-full pt-36 px-4 md:w-2/3 md:mx-auto">
   <div class="shadow-lg shadow-black/70 p-2 rounded-lg">
     <p class="font-bold">
       
@@ -28,15 +28,66 @@
     </ul>
   </div>
 
-  <div class="mt-12 shadow-lg shadow-black/70 p-6 rounded-lg">
+  <div class="h-full mt-12 shadow-lg shadow-black/70 p-6 rounded-lg">
+    <a href="https://www.kinequantum.com/">
+      <img
+      class=""
+      src="/images/Kinequantum.png"
+      alt="logo de kinequantum"
+    />
+    <div class="flex justify-around p-2 md:justify-center">
+      <p class="px-4">En savoir plus </p>
+    <img
+      class=""
+      src="/images/arrow.svg"
+      alt="flèche"
+    />
+    </div>
+    </a>
+    <h4 class="font-bold mt-6">
+      Pourquoi la thérapie en réalité
+      virtuelle ?
+    </h4>
+    <p>
+      Pourquoi la thérapie
+            en réalité virtuelle ? Tirer à l’arc
+            au moyen-âge, nager dans l’océan
+            pacifique, voler au-dessus d’une forêt
+            ou vous promener dans la jungle ….
+            sans quitter le cabinet de votre kiné
+            ! Grâce à la thérapie de rééducation
+            en réalité virtuelle, découvrez une
+            nouvelle manière de vous rééduquer en
+            complément de vos séances habituelles.
+            Demandez KineQuantum à votre kiné.
+    </p>
+    <h4 class="font-bold mt-6">Qu'est-ce que la réalité virtuelle ?</h4>
+    <p>
+      C'est une technologie de pointe
+            permettant d'immerger complètement le
+            patient dans un monde fictif. Grâce à
+            un masque de réalité virtuelle le
+            champ de vision est recouvert d’un
+            affichage panoramique qui permet une
+            mise en situation. La réalité
+            virtuelle permet ainsi un niveau
+            d'immersion inédit ! Vous n'êtes plus
+            simplement un observateur externe
+            d’images face à un écran, mais devenez
+            un participant actif à l’intérieur du
+            monde virtuel.
+    </p>
+    
+  </div>
+  <div class="h-full mt-12 shadow-lg shadow-black/70 p-6 rounded-lg">
     <a href="https://klaserfrance.fr/">
       <img
       class=""
       src="https://klaserfrance.fr/wp-content/uploads/logo-klaser-aujourdhui-veclogo.svg"
       alt="logo de k-laser"
     />
-    <div class="flex justify-around p-2">
-      <p>En savoir plus </p>
+    <div class="flex justify-around p-2 md:justify-center">
+      <p class="px-4">En savoir plus </p>
     <img
       class=""
       src="/images/arrow.svg"

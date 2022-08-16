@@ -2,7 +2,7 @@
   import { fly } from 'svelte/transition';
 </script>
 
-<div class="w-full pt-36 h-full ">
+<div class="w-full pt-36 h-full flex flex-col md:flex-row">
   <img src="/images/sport.svg" alt="exercice physique">
   <ul class="list-disc p-8 flex mx-auto flex-col">
     <li class="p-4" in:fly={{ y:200, duration:500}}>Diplômé de l'IFK Rennes en 1985</li>
